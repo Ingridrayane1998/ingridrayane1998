@@ -18,18 +18,14 @@ Atualmente trabalho na **SumUp** com foco em **RH e Employee Experience**, e est
 
   <!-- SQL (MySQL e SQLite) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
 
   <!-- PHP, HTML e CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
 
-  <!-- Google APIs -->
-  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" title="Google APIs" alt="Google" width="40" height="40"/>
-
   <!-- No-code / Low-code -->
-  <img src="https://seeklogo.com/images/Z/zapier-logo-FBBE0BFECF-seeklogo.com.png" title="Zapier" alt="Zapier" width="40" height="40"/>
+  <img src="[https://seeklogo.com/images/Z/zapier-logo-FBBE0BFECF-seeklogo.com.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZapier_logo.png&psig=AOvVaw3baIvttciEl9gFozxa3Xf5&ust=1757540357238000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCag5jSzI8DFQAAAAAdAAAAABAE)" title="Zapier" alt="Zapier" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/make-com.svg" title="Make.com" alt="Make.com" width="40" height="40"/>
   <img src="https://n8n.io/favicon.ico" title="n8n" alt="n8n" width="40" height="40"/>
 </div>
