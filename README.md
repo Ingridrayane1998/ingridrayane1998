@@ -1,3 +1,8 @@
+<!-- Coloque aqui o seu GIF pessoal -->
+<p align="center">
+  <img src="SEU_GIF_AQUI.gif" width="200px" alt="Gif da Ingrid" />
+</p>
+
 # 👋 Olá, tudo bem?!  
 
 Sou a **Ingrid Rayane**, moro em **São Paulo** e estou no **1º semestre de Análise e Desenvolvimento de Sistemas na FAM**.  
@@ -28,19 +33,21 @@ Atualmente trabalho na **SumUp** com foco em **RH e Employee Experience**, e est
   <img src="https://cdn.worldvectorlogo.com/logos/make-com.svg" title="Make.com" alt="Make.com" width="40" height="40"/>
   <img src="https://n8n.io/favicon.ico" title="n8n" alt="n8n" width="40" height="40"/>
 </div>
+
 ---
 
 ## 🔭 Projetos
-📦 Sistema de Estoque (PHP)  
-💰 Gestão de Orçamentos (PHP)  
-📊 Automação de Relatórios (Python)  
-🤖 Chatbot Slack x Jira & Notion  
-⚙️ RPA para formulários  
-📂 Extração de dados de XML  
+- 📦 Sistema de Estoque (PHP)  
+- 💰 Gestão de Orçamentos (PHP)  
+- 📊 Automação de Relatórios (Python)  
+- 🤖 Chatbot Slack x Jira & Notion  
+- ⚙️ RPA para formulários  
+- 📂 Extração de dados de XML  
 
 ---
 
 ## 🌱 Aprendendo
+
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="30" height="30"/>
@@ -52,15 +59,16 @@ Atualmente trabalho na **SumUp** com foco em **RH e Employee Experience**, e est
 ---
 
 ## 📊 GitHub Stats
-<div>
+<div align="center">
   <a href="https://github.com/ingridrayane1998">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridrayane1998&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridrayane1998&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>  
 
-![Snake animation](https://github.com/ingridrayane1998/ingridrayane1998/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://github.com/ingridrayane1998/ingridrayane1998/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
 
 ---
 
