@@ -44,5 +44,5 @@ Atualmente trabalho na **SumUp**, com foco em **RH e Employee Experience**, mas 
 
 ## 📫 Vamos conversar?
 - 💼 [LinkedIn](https://www.linkedin.com/in/ingridrayane)  
-- ✉️ **ingrid.alves@sumup.com**  
+- ✉️ **ingridrayane1998@gmail.com**  
 - 🚀 Sempre aberta para trocar ideias sobre **automação, dados e tecnologia**!  
