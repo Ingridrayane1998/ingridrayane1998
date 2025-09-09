@@ -21,12 +21,10 @@ Atualmente trabalho na **SumUp** com foco em **RH e Employee Experience**, e est
 
   <!-- PHP, HTML e CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
 
   <!-- No-code / Low-code -->
   <img src="https://n8n.io/favicon.ico" title="n8n" alt="n8n" width="40" height="40"/>
-   <img src="https://img.icons8.com/?size=100&id=by7K6EO4PeHT&format=png&color=000000" title="n8n" alt="n8n" width="40" height="40"/>
+   <img src="https://img.icons8.com/?size=100&id=by7K6EO4PeHT&format=png&color=000000" title="zapier" alt="zapier" width="40" height="40"/>
   
 </div>
 
