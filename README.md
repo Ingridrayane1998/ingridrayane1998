@@ -25,7 +25,7 @@ Atualmente trabalho na **SumUp** com foco em **RH e Employee Experience**, e est
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
 
   <!-- No-code / Low-code -->
-  <img src="[https://seeklogo.com/images/Z/zapier-logo-FBBE0BFECF-seeklogo.com.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZapier_logo.png&psig=AOvVaw3baIvttciEl9gFozxa3Xf5&ust=1757540357238000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCag5jSzI8DFQAAAAAdAAAAABAE)" title="Zapier" alt="Zapier" width="40" height="40"/>
+  <img src="[[https://seeklogo.com/images/Z/zapier-logo-FBBE0BFECF-seeklogo.com.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZapier_logo.png&psig=AOvVaw3baIvttciEl9gFozxa3Xf5&ust=1757540357238000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCag5jSzI8DFQAAAAAdAAAAABAE)](https://img.icons8.com/?size=100&id=by7K6EO4PeHT&format=png&color=000000)" title="Zapier" alt="Zapier" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/make-com.svg" title="Make.com" alt="Make.com" width="40" height="40"/>
   <img src="https://n8n.io/favicon.ico" title="n8n" alt="n8n" width="40" height="40"/>
 </div>
