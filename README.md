@@ -42,6 +42,7 @@ Atualmente trabalho na **SumUp**, com foco em **RH e Employee Experience**, mas 
 
 ![Snake animation](https://github.com/ingridrayane1998/ingridrayane1998/blob/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 ## 📫 Vamos conversar?
