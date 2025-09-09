@@ -57,7 +57,7 @@ Atualmente trabalho na **SumUp** com foco em **RH e Employee Experience**, e est
 ## 📫 Vamos conversar?
 ## Contatos:
 <div>
-<a href = "mailto:contato@ingridrayane1998@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[www.linkedin.com/in/ingrid-rayane-5977a0195](https://www.linkedin.com/in/ingrid-rayane-5977a0195/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:ingridrayane1998@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ingrid-rayane-5977a0195" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 - 🚀 Sempre aberta para trocar ideias sobre **automação, dados e tecnologia**!  
