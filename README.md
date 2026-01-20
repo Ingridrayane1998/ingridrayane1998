@@ -5,7 +5,7 @@
 
 # 👋 Olá, tudo bem?!  
 
-Sou a **Ingrid Rayane**, moro em **São Paulo** e estou no **1º semestre de Análise e Desenvolvimento de Sistemas na FAM**.  
+Sou a **Ingrid Rayane**, moro em **São Paulo** e estou no **2º semestre de Análise e Desenvolvimento de Sistemas na FAM**.  
 Atualmente trabalho na **SumUp** com foco em **RH e Employee Experience**, e estou cursando **Analista de Dados na EBAC**. 🚀  
 
 ---
