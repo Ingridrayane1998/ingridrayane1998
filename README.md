@@ -1,7 +1,3 @@
-<!-- Coloque aqui o seu GIF pessoal -->
-<p align="center">
-  <img src="SEU_GIF_AQUI.gif" width="200px" alt="Gif da Ingrid" />
-</p>
 
 # 👋 Olá, tudo bem?!  
 
