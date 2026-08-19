@@ -1,8 +1,7 @@
 
 # 👋 Olá, tudo bem?!  
 
-Sou a **Ingrid Rayane**, moro em **São Paulo** e estou no **2º semestre de Análise e Desenvolvimento de Sistemas na FAM**.  
-Atualmente trabalho na **SumUp** com foco em **RH e Employee Experience**, e estou cursando **Analista de Dados na EBAC**. 🚀  
+Sou a **Ingrid Rayane**, moro em **São Paulo** e estou no **3º semestre de Análise e Desenvolvimento de Sistemas na FAM** 🚀  
 
 ---
 
@@ -12,11 +11,8 @@ Atualmente trabalho na **SumUp** com foco em **RH e Employee Experience**, e est
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 
-  <!-- SQL (MySQL e SQLite) -->
+  <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-
-  <!-- PHP, HTML e CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
 
   <!-- No-code / Low-code -->
   <img src="https://n8n.io/favicon.ico" title="n8n" alt="n8n" width="40" height="40"/>
@@ -30,9 +26,9 @@ Atualmente trabalho na **SumUp** com foco em **RH e Employee Experience**, e est
 - 📦 Sistema de Estoque (PHP)  
 - 💰 Gestão de Orçamentos (PHP)  
 - 📊 Automação de Relatórios (Python)  
-- 🤖 Chatbot Slack x Jira & Notion  
-- ⚙️ RPA para formulários  
-- 📂 Extração de dados de XML  
+- 🤖 Chatbot (RAG) Slack x Jira & Notion  
+- ⚙️ Agent RPA para gestão, arquivo e cadastro de notas fiscais (API Trello, Gmail, Drive, Sheets e Playwright)
+
 
 ---
 
@@ -56,4 +52,4 @@ Atualmente trabalho na **SumUp** com foco em **RH e Employee Experience**, e est
 <a href = "mailto:ingridrayane1998@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ingrid-rayane-5977a0195" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-- 🚀 Sempre aberta para trocar ideias sobre **automação, dados e tecnologia**!  
+- 🚀 Sempre aberta para trocar ideias sobre **automação, dados e tecnologia** !  
